@@ -58,6 +58,7 @@
         gap: 11%;
         align-items: center;
         margin-top: 11%;
+        margin-bottom: 14%;
     }
     .secciones-nav:hover{
         text-decoration: line-through !important;
@@ -71,6 +72,9 @@
     .info{
         margin-top: 10%;
 
+    }
+    .footer-bottom{
+        margin-bottom: -8%;
     }
        
            
