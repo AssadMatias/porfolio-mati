@@ -1,0 +1,79 @@
+*{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0%;
+    list-style: none;
+    
+    
+}
+@media  (max-width: 780px) {
+   
+    body{
+        background-color: rgb(193, 225, 226);
+    }
+    .h1 {
+        font-size: 130%;
+    }
+    .navbar{
+        background-color: #055964 !important;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        
+    }
+    
+    
+    .foto-mia{
+        width: 108%;
+        margin-top: 8%;
+        margin-left: 2%
+    }
+    .sobre-mi{
+        align-items: center;
+        margin-top:10%;
+        font-size:275%;
+        background-color: #055964; /* color boton */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 26%;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+    .datos-sobre-mi{
+        text-align: center;
+        
+    }
+    .icon{
+        width: 27%;
+    }
+    .icon-css{
+        width: 20%; 
+    }
+    .icons-container{
+        display: flex;
+        gap: 11%;
+        align-items: center;
+        margin-top: 11%;
+    }
+    .secciones-nav:hover{
+        text-decoration: line-through !important;
+        
+    }
+    .sobre-mi:hover{
+        opacity: 60%;
+        transition: 0.5s;
+        background-color: rgb(28, 88, 88) ;
+    }
+    .info{
+        margin-top: 10%;
+
+    }
+       
+           
+    
+    
+
+    
+}
