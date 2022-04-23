@@ -7,9 +7,11 @@
     
 }
 @media  (max-width: 780px) {
+    
    
     body{
         background-color: rgb(193, 225, 226);
+        
     }
     .h1 {
         font-size: 130%;
@@ -22,9 +24,9 @@
     
     
     .foto-mia{
-        width: 108%;
+        width: 91%;
         margin-top: 8%;
-        margin-left: 2%
+        margin-left: 9%;
     }
     .sobre-mi{
         align-items: center;
